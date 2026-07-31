@@ -9,6 +9,7 @@ public class Converter {
         float result = value / 60;
         return result;
     }
+
     public static void main(String[] args) {
         float euro = rubleToEuro(140);
         float dollar = rubleToDollar(140);
