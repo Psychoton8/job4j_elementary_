@@ -33,7 +33,7 @@ class X2Test {
     @Test
     void whenA0b1c1x1Then2() {
         int a = 0;
-        int b = 1 ;
+        int b = 1;
         int c = 1;
         int x = 1;
         int expected = 2;
